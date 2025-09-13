@@ -23,8 +23,7 @@ RAW DATA
 ## What’s inside
 - `models/keyboard_65.blend` — source (real scale, meters)
 - `exports/keyboard_65.glb` — recommended
-- `exports/keyboard_65.fbx`, `exports/keyboard_65.obj` — compatibility
-
+- `exports/keyboard_65.fbx`
 ## Naming
 - One object per keycap. Names like: `K_A`, `K_1!`, `K_2@`, `K_[{`, `K_]}', `K_\|`, `K_/?`, `K_ESCAPE`, `K_LSHIFT`, `K_SPACEBAR`, etc.
 
