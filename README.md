@@ -1,4 +1,4 @@
-![Keyboard Plate  Design](https://github.com/user-attachments/assets/c67f0e29-79cf-44b2-ad65-415783cd18f9)# 65% Keyboard — Open 3D Model
+# 65% Keyboard — Open 3D Model
 
 Game-ready 65% keyboard model. Separate keycaps with stem-centered pivots for clean press animations. Exports for Unity/Godot/Blender.
 
@@ -19,6 +19,7 @@ RAW DATA
 
 ## [Plate]
 <img width="982" height="443" alt="Plate" src="https://github.com/user-attachments/assets/caec6676-bf56-4985-8e6c-d5c333642c9f" />
+(https://github.com/user-attachments/assets/c67f0e29-79cf-44b2-ad65-415783cd18f9)
 
 ## What’s inside
 - `models/keyboard_65.blend` — source (real scale, meters)
