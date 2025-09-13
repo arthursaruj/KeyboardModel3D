@@ -4,6 +4,8 @@ Game-ready 65% keyboard model. Separate keycaps with stem-centered pivots for cl
 
 [Preview]
 <img width="982" height="443" alt="Keyboard3dModel" src="https://github.com/user-attachments/assets/18e89485-afed-4e91-86c0-2fcaf80fa6ac" />
+[Layout]
+<img width="884" height="290" alt="keyboard-layout" src="https://github.com/user-attachments/assets/47154641-94a7-43b1-8731-8832c95c13a8" />
 
 ## What’s inside
 - `models/keyboard_65.blend` — source (real scale, meters)
