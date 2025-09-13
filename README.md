@@ -2,7 +2,7 @@
 
 Game-ready 65% keyboard model. Separate keycaps with stem-centered pivots for clean press animations. Exports for Unity/Godot/Blender.
 
-![Preview]
+[Preview]
 <img width="982" height="443" alt="Keyboard3dModel" src="https://github.com/user-attachments/assets/18e89485-afed-4e91-86c0-2fcaf80fa6ac" />
 
 ## What’s inside
